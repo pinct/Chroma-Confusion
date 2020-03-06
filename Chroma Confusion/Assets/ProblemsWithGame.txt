@@ -1,0 +1,2 @@
+Problems with our game:
+1. problem with controls (need to add a way to pick up the crates)
